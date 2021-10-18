@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"What is essential is invisible to the eye."
 Use the left arrow to go back!
